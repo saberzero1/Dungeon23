@@ -4,4 +4,4 @@
 
 ## Credits
 
-CSS template: https://github.com/naturalcrit/homebrewery
+Template based on: https://github.com/jeremyboggs/5e

@@ -6,7 +6,7 @@ relative_links:
 include:
   - ['Dungeon']
 title: Dungeon23
-baseurl: ""
+baseurl: /Dungeon23
 sass:
   sass_dir: _sass
   style: compressed

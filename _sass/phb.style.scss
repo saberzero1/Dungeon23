@@ -1,3 +1,4 @@
+@import url('https://fontlibrary.org/face/dejavu-sans-mono');
 //Colors
 $background            : #EEE5CE;
 $noteGreen             : #e0e5c1;
@@ -324,7 +325,9 @@ body {
 	}
 	//Column Break
 	pre, code{
-		font-family                : "Courier New", Courier, monospace;
+                font-variant-numeric.      : tabular-nums lining-nums;
+                font-kerning.              : none;
+		font-family                : "Dejavu Sans Mono", "Courier New", Courier, monospace;
 		visibility                 : visible;
 		-webkit-column-break-after : always;
 		break-after                : always;

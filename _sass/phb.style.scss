@@ -326,13 +326,19 @@ body {
 	}
 	//Column Break
 	pre, code{
-                font-variant-numeric       : tabular-nums lining-nums;
-                font-kerning               : none;
+        font-variant-numeric       : tabular-nums lining-nums;
+        font-kerning               : none;
 		font-family                : "MorePerfectDOSVGA", "Square", "Dejavu Sans Mono", "Courier New", Courier, monospace;
 		visibility                 : visible;
 		-webkit-column-break-after : always;
 		break-after                : always;
 		-moz-column-break-after    : always;
+		-webkit-transform: scaleX(1.69);
+		-moz-transform: scaleX(1.69);
+		transform: scaleX(1.69);
+		-webkit-transform-origin: 0 0;
+		-moz-transform-origin: 0 0;
+		transform-origin: 0 0;
 	}
 	//Avoid breaking up
 	p,blockquote,table{

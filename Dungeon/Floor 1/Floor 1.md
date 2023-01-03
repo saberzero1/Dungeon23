@@ -9,7 +9,7 @@ title: "Floor 1"
 |-----|------|
 | January 1st | [GATE](Room 1.md) |
 | January 2nd | [FOUNTAIN](Room 2.md) |
-| January 3rd | [](Room 3.md) |
+| January 3rd | [CELLS](Room 3.md) |
 
 ## Full Floor so far
 

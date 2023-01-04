@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Room 3"
+title: "Room 4"
 ---
 
 # Library
@@ -36,7 +36,7 @@ A DC 15 Investigation check reveals a Spell Scroll of Unseen Servant hidden amon
            ░░           
 ░░░░░░░░░░░░░░░░░░░░░░░░
 ░░░░░░░░░░░░░░░░░░░░░░░░
-                       
+                        
 ════════════════════════
 ████████████████████████
 ```

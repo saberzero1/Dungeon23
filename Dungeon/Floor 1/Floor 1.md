@@ -10,7 +10,7 @@ title: "Floor 1"
 | January 2nd | [FOUNTAIN](Room 2.md)          |
 | January 3rd | [CELLS](Room 3.md)             |
 | January 4th | [LIBRARY](Room 4.md)           |
-| January 5th | [ABANDONED HIDEOUT](Room 5.md) |
+| January 5th | [ABANDONED_HIDEOUT](Room 5.md) |
 
 ## Full Floor so far
 
